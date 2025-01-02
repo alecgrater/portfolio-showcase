@@ -1,0 +1,71 @@
+{
+  "photo_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=400&q=80",
+  "experience": [
+    {
+      "company": "Apple",
+      "positions": [
+        {
+          "title": "Software Engineer",
+          "type": "Full-time",
+          "duration": "Jun 2020 - Present",
+          "tenure": "4 yrs 8 mos",
+          "location": "Cupertino, California, United States"
+        },
+        {
+          "title": "Support Engineer Intern",
+          "type": "Internship",
+          "duration": "Jan 2020 - Jun 2020",
+          "tenure": "6 mos",
+          "location": "Cupertino, California, United States",
+          "responsibilities": [
+            "Identified, researched, and resolved client concerns regarding products created and maintained by Data Analytics team",
+            "Redesigned documentation for internal software to streamline onboarding process for new clients",
+            "Scripted JSON parser to automate client reach out efforts",
+            "Updated data collection allow-lists across 500+ million Apple devices to coincide with fast-moving software release cycle"
+          ]
+        },
+        {
+          "title": "Technical Expert",
+          "type": "Full-time",
+          "duration": "Jan 2019 - Jan 2020",
+          "tenure": "1 yr 1 mo",
+          "location": "Natick, Massachusetts, United States",
+          "responsibilities": [
+            "Maintained high level understanding of troubleshooting steps for iPhone, iPad, Apple Watch, and Apple TV",
+            "Handled 70+ individual client appointments per week and 40+ unique repairs per week",
+            "Served as a mentor to onboard new employees and facilitate training"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hollister Co.",
+      "positions": [
+        {
+          "title": "Assistant Manager",
+          "type": "Full-time",
+          "duration": "Jan 2017 - Aug 2017",
+          "tenure": "8 mos",
+          "location": "Holyoke, Massachusetts, United States",
+          "responsibilities": [
+            "Supervised team of 40+ employees",
+            "Tracked a variety of business metrics to drive sales",
+            "Interviewed, hired, and trained new staff to deliver outstanding customer service"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Massachusetts Amherst",
+      "degree": "Bachelor's degree",
+      "field_of_study": "Economics, IT",
+      "years_attended": "2012 - 2016",
+      "activities_and_societies": [
+        "Lieutenant Governor in Student Government",
+        "Performer and Technical Leader in UMass Comedy League"
+      ]
+    }
+  ]
+}

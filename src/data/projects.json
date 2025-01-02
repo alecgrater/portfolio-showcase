@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "title": "Spotify Stats Analyzer",
+      "url": "https://thunderous-tartufo-4e7ec3.netlify.app/",
+      "logo": "https://github.com/alecgrater/portfolio/blob/main/src/assets/logos/SpotifyAnalyzer.png?raw=true",
+      "summary": "Upload your Spotify data to reveal your all-time music stats and trends"
+    }
+  ]
+}
