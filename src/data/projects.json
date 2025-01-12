@@ -9,7 +9,7 @@
     {
       "title": "Retail Rewind",
       "url": "https://inspiring-chaja-62ce6c.netlify.app/",
-      "logo": "https://github.com/alecgrater/portfolio/blob/main/src/assets/logos/RetailRewind.png?raw=true",
+      "logo": "https://raw.githubusercontent.com/alecgrater/portfolio-showcase/refs/heads/main/src/assets/logos/RetailRewind.png",
       "summary": "Upload your Amazon data to get insights into your purchase patterns"
     }
   ]
